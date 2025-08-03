@@ -43,21 +43,12 @@ Olá! Sou NandãoDevMax.👋
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nandaodevmax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Nandaodevmax&locale=pt-br&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandaodevmax&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Nandaodevmax&locale=pt-br&mode=daily&theme=merko&hide_border=false&border_radius=5" height="250" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandaodevmax&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="350" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="" src=""  />
-
-###
-
-
-###
-
-
-###
 
 <br clear="both">
 
@@ -65,30 +56,6 @@ Olá! Sou NandãoDevMax.👋
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nandaodevmax/Nandaodevmax/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nandaodevmax/Nandaodevmax/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nandaodevmax/Nandaodevmax/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
 
-###
-
-<div align="center">
-  <img src="?theme=dark&spin=false&scan=false" alt="Widget with the current Spotify song"  />
-</div>
-
-###
