@@ -1,4 +1,4 @@
-<h1>Olá! Sou NandãoDevMax.👋</h1> 
+![Image](https://github.com/user-attachments/assets/e2a45bf9-ab8e-4be5-a7b3-f69dcf6de4cc)
 <h1>Sejam bem vindos ao meu Github</h1> 
 <h3 align="center">A passionate data scientist from Brazil </h3>
 <div align="left">
