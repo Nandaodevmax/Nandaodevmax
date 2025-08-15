@@ -1,10 +1,10 @@
 ![Image](https://github.com/user-attachments/assets/e2a45bf9-ab8e-4be5-a7b3-f69dcf6de4cc)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+Name+is+Fernando+De+Jesus;+I+am+Data+Scientist+in+Brazil+graduated+from;+the+University+of+FRANCA+UNIFRAN;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<h2 align="center">“Dados superam emoções.” 
+</h2>
 
 <h1>Sejam bem vindos ao meu Github</h1> 
 
-<h2 align="center">“Dados superam emoções.” 
-</h2>
 
 <div align="left">
   <a href="https://www.youtube.com/@Fernand%C3%A3oJesus" target="_blank">
