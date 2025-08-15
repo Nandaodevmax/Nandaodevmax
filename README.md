@@ -3,7 +3,7 @@
 <h2 align="center">“Dados superam emoções.” 
 </h2>
 
-<h1 aling="center"> 🫆🫆🫆🫆🫆🫆🫆 Sejam bem vindos ao meu Github 🫆🫆🫆🫆🫆🫆🫆</h1> 
+<h1 aling="center">Sejam bem vindos ao meu Github 🫆</h1> 
 
 
 <div align="left">
@@ -43,7 +43,6 @@
 </div>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/NandãoDevMax"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NandãoDevMax" /></a></p><br><br>
-<h1>🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆🫆</h1>
 <H4 aling= "center">"Cada número, cada estatística, cada ponto de dados é um fragmento de história, esperando para ser contado e compreendido."</H4>
 ###
 <div align="center">
