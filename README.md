@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+<h2 aling="center" color=E4405F>"A beleza dos dados está na sua capacidade de nos conectar com a verdade, de nos ajudar a tomar decisões informadas e de nos guiar para um futuro mais promissor."</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandaodevmax&label=Profile%20views&color=0e75b6&style=flat" alt="nandaodevmax" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandaodevmax" alt="nandaodevmax" /></a> </p>
@@ -44,7 +44,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/NandãoDevMax"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NandãoDevMax" /></a></p><br><br>
-
+<H2 aling= "center">"Cada número, cada estatística, cada ponto de dados é um fragmento de história, esperando para ser contado e compreendido."</H2>
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nandaodevmax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="140" alt="stats graph" /> 
