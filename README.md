@@ -44,7 +44,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/NandãoDevMax"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NandãoDevMax" /></a></p><br><br>
-<H2 aling= "center">"Cada número, cada estatística, cada ponto de dados é um fragmento de história, esperando para ser contado e compreendido."</H2>
+<H4 aling= "center">"Cada número, cada estatística, cada ponto de dados é um fragmento de história, esperando para ser contado e compreendido."</H4>
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nandaodevmax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="140" alt="stats graph" /> 
