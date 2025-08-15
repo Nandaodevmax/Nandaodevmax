@@ -3,7 +3,7 @@
 <h2 align="center">“Dados superam emoções.” 
 </h2>
 
-<h1>Sejam bem vindos ao meu Github</h1> 
+<h1 aling="center"> 🫆🫆🫆🫆🫆🫆🫆 Sejam bem vindos ao meu Github 🫆🫆🫆🫆🫆🫆🫆🫆</h1> 
 
 
 <div align="left">
