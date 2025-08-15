@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<h2 aling="center" color=E4405F>"A beleza dos dados está na sua capacidade de nos conectar com a verdade, de nos ajudar a tomar decisões informadas e de nos guiar para um futuro mais promissor."</h2>
+<h4 aling="center" color=E4405F>"A beleza dos dados está na sua capacidade de nos conectar com a verdade, de nos ajudar a tomar decisões informadas e de nos guiar para um futuro mais promissor."</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandaodevmax&label=Profile%20views&color=0e75b6&style=flat" alt="nandaodevmax" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandaodevmax" alt="nandaodevmax" /></a> </p>
