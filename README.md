@@ -3,7 +3,9 @@
 
 <h1>Sejam bem vindos ao meu Github</h1> 
 
-<h3 align="center">A passionate data scientist from Brazil </h3>
+<h2 align="center">“Dados superam emoções.” 
+</h2>
+
 <div align="left">
   <a href="https://www.youtube.com/@Fernand%C3%A3oJesus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
